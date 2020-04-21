@@ -1,0 +1,12 @@
+CREATE TABLE Product(
+ID INT PRIMARY KEY,
+UnitPrice DOUBLE,
+Details VARCHAR(200) NOT NULL
+);
+
+
+
+
+
+
+
